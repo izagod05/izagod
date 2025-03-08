@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trái Tim Yêu Thương</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #fff5f5;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .container {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .heart {
+            width: 120px;
+            height: 120px;
+            background-color: red;
+            position: relative;
+            transform: rotate(-45deg);
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            margin-top: 60px;
+            animation: heartbeat 1.5s infinite;
+        }
+        .heart:before, .heart:after {
+            content: "";
+            width: 120px;
+            height: 120px;
+            background-color: red;
+            border-radius: 50%;
+            position: absolute;
+        }
+        .heart:before {
+            top: -60px;
+            left: 0;
+        }
+        .heart:after {
+            top: 0;
+            left: 60px;
+        }
+        .heart:hover {
+            transform: scale(1.2) rotate(-45deg);
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
+        }
+        @keyframes heartbeat {
+            0% { transform: scale(1) rotate(-45deg); }
+            50% { transform: scale(1.1) rotate(-45deg); }
+            100% { transform: scale(1) rotate(-45deg); }
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 20px;
+            text-align: center;
+            color: #d00000;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 1s ease-in-out, transform 0.8s ease-in-out;
+        }
+        .message.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .particles {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+        .particle {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: pink;
+            border-radius: 50%;
+            opacity: 0.7;
+            animation: floatUp 3s infinite ease-in-out;
+        }
+        @keyframes floatUp {
+            0% { transform: translateY(0) scale(1); opacity: 1; }
+            50% { transform: translateY(-50px) scale(1.2); opacity: 0.7; }
+            100% { transform: translateY(-100px) scale(1); opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <h2>Bạn ntctee bấm vào có bất ngờ nè!</h2>
+    <div class="container">
+        <div class="heart" onclick="showMessage()"></div>
+        <div class="message" id="message"></div>
+    </div>
+    <div class="particles" id="particles"></div>
+    <script>
+        function showMessage() {
+            let messageText = "💖 Anh xin lỗi ebe ntram cuteeeee mà, anh hứa anh sẽ hạn chế làm em cọc, giận. Em bỏ qua cho anh đi nhaaaa. Anh iu em nhiều lắm, hy vọng em sẽ tha lỗi cho anhhhhhhhh hihiii. 💕";
+            let messageElement = document.getElementById("message");
+            messageElement.textContent = messageText;
+            messageElement.classList.add("show");
+            createParticles();
+        }
+        
+        function createParticles() {
+            let particlesContainer = document.getElementById("particles");
+            particlesContainer.innerHTML = "";
+            for (let i = 0; i < 30; i++) {
+                let particle = document.createElement("div");
+                particle.className = "particle";
+                particle.style.left = Math.random() * 100 + "vw";
+                particle.style.top = Math.random() * 100 + "vh";
+                particle.style.animationDuration = (Math.random() * 2 + 1) + "s";
+                particlesContainer.appendChild(particle);
+            }
+        }
+    </script>
+</body>
+</html>
