@@ -1,5 +1,5 @@
 {
-  "max_devices": 2,
+  "max_devices": 1,
   "locked": false,
   "devices": [
     {
