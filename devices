@@ -8,6 +8,13 @@
       "hostname": "JWOS10-FPSV5",
       "first_seen": "2026-02-22 08:54:58",
       "last_seen": "2026-02-22 09:01:21"
+    },
+    {
+      "hwid": "58C95E69068B83E8",
+      "ip": "115.74.37.62",
+      "hostname": "Internet",
+      "first_seen": "2026-02-22 09:03:24",
+      "last_seen": "2026-02-22 09:03:24"
     }
   ]
 }
