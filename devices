@@ -1,5 +1,13 @@
 {
   "max_devices": 2,
   "locked": false,
-  "devices": []
+  "devices": [
+    {
+      "hwid": "DD5FEB5789452F26",
+      "ip": "171.225.184.142",
+      "hostname": "JWOS10-FPSV5",
+      "first_seen": "2026-02-22 08:54:58",
+      "last_seen": "2026-02-22 08:54:58"
+    }
+  ]
 }
