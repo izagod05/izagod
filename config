@@ -19,6 +19,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-08 14:24:31",
             "last_active": "2026-03-08 14:49:56"
+        },
+        "59937B87-EAF8-E6D1-6E92-A0AD9F812DC4": {
+            "pc_name": "DESKTOP-KKPF7S4",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-03-08 00:05:41",
+            "last_active": "2026-03-08 00:05:41"
         }
     }
 }
