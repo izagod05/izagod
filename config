@@ -1,4 +1,12 @@
 {
     "password": "letrantien2005",
-    "is_locked": false
+    "is_locked": false,
+    "users": {
+        "E8DF64A7-B330-3C17-ACB0-345A6044FB13": {
+            "pc_name": "JWOS10-FPSV5",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-03-08 13:21:26",
+            "last_active": "2026-03-08 13:21:26"
+        }
+    }
 }
