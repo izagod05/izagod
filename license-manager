@@ -1,6 +1,10 @@
 {
     "getbabi04": {
         "password": "getbabi04",
-        "hwid": "ANY"
+        "hwid": "ANY",
+        "devices": [
+            "E8DF64A7-B330-3C17-ACB0-345A6044FB13"
+        ],
+        "max_devices": 1
     }
 }
