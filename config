@@ -43,6 +43,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-09 14:47:50",
             "last_active": "2026-03-09 14:47:50"
+        },
+        "8F7ACD6B-9951-344F-80D0-EE7708C0263F": {
+            "pc_name": "Admin-PC",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-03-11 10:35:59",
+            "last_active": "2026-03-11 10:35:59"
         }
     }
 }
