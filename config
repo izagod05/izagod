@@ -57,5 +57,11 @@
             "last_active": "2026-03-11 21:48:09"
         }
     },
-    "cheat_detectors": {}
+    "cheat_detectors": {
+        "E8DF64A7-B330-3C17-ACB0-345A6044FB13": {
+            "pc_name": "JWOS10-FPSV5",
+            "status": "active",
+            "last_seen": "2026-03-13 11:29:33"
+        }
+    }
 }
