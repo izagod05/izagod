@@ -7,5 +7,10 @@
             "03D502E0-045E-0508-B906-D40700080009"
         ],
         "max_devices": 2
+    },
+    "tien": {
+        "password": "hihi",
+        "max_devices": 1,
+        "devices": []
     }
 }
