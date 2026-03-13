@@ -11,6 +11,8 @@
     "tien": {
         "password": "hihi",
         "max_devices": 1,
-        "devices": []
+        "devices": [
+            "E8DF64A7-B330-3C17-ACB0-345A6044FB13"
+        ]
     }
 }
