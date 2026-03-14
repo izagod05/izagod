@@ -61,6 +61,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-13 17:11:08",
             "last_active": "2026-03-13 17:20:19"
+        },
+        "4C4C4544-004B-5010-8035-B4C04F305932": {
+            "pc_name": "Admin",
+            "platform": "Windows-10-10.0.19044-SP0",
+            "first_active": "2026-03-14 14:34:32",
+            "last_active": "2026-03-14 14:34:32"
         }
     },
     "cheat_detectors": {
