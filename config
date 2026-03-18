@@ -86,6 +86,11 @@
             "pc_name": "JWOS10-FPSV5",
             "status": "active",
             "last_seen": "2026-03-18 21:04:19"
+        },
+        "8DC73590-EE18-597F-8853-E89C25A72645": {
+            "pc_name": "DESKTOP-SGAGTLO",
+            "status": "active",
+            "last_seen": "2026-03-17 21:04:44"
         }
     }
 }
