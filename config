@@ -91,6 +91,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-20 07:38:00",
             "last_active": "2026-03-20 07:38:00"
+        },
+        "0E006B9C-8BB7-0000-0000-000000000000": {
+            "pc_name": "DESKTOP-Q90EKBQ",
+            "platform": "Windows-10-10.0.26200-SP0",
+            "first_active": "2026-03-21 13:07:15",
+            "last_active": "2026-03-21 13:07:15"
         }
     },
     "cheat_detectors": {
