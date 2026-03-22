@@ -103,6 +103,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-22 17:05:39",
             "last_active": "2026-03-22 19:43:21"
+        },
+        "349B141C-DA52-87A3-07D8-08BFB8A86C83": {
+            "pc_name": "Internet",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-03-22 20:32:54",
+            "last_active": "2026-03-22 20:32:54"
         }
     },
     "cheat_detectors": {
