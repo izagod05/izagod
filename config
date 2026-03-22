@@ -97,6 +97,12 @@
             "platform": "Windows-10-10.0.26200-SP0",
             "first_active": "2026-03-21 13:07:15",
             "last_active": "2026-03-21 13:08:23"
+        },
+        "D806D980-CBC8-11EF-AA8B-954CEF065500": {
+            "pc_name": "DESKTOP-KMESHRE",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-03-22 17:05:39",
+            "last_active": "2026-03-22 17:05:39"
         }
     },
     "cheat_detectors": {
