@@ -10,8 +10,9 @@
         },
         "D806D980-CBC8-11EF-AA8B-954CEF065500": {
             "pc_name": "DESKTOP-KMESHRE",
-            "status": "active",
-            "last_seen": "2026-03-22 19:44:00"
+            "status": "killed",
+            "last_seen": "2026-03-22 19:44:00",
+            "killed_at": "19:44:06"
         }
     }
 }
