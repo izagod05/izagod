@@ -1,13 +1,4 @@
 {
-    "getbabi04": {
-        "password": "getbabi04",
-        "hwid": "ANY",
-        "devices": [
-            "E8DF64A7-B330-3C17-ACB0-345A6044FB13",
-            "03D502E0-045E-0508-B906-D40700080009"
-        ],
-        "max_devices": 2
-    },
     "tien": {
         "password": "hihi",
         "max_devices": 1,
