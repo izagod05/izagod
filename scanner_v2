@@ -13,6 +13,11 @@
             "status": "killed",
             "last_seen": "2026-03-22 19:44:00",
             "killed_at": "19:44:06"
+        },
+        "C0CDA85F-136C-9F43-8FA2-C08CE877EA22": {
+            "pc_name": "DESKTOP-8R59KU0",
+            "status": "active",
+            "last_seen": "2026-03-29 06:53:22"
         }
     }
 }
