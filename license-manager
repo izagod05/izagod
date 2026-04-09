@@ -8,9 +8,7 @@
     },
     "getbabi04": {
         "password": "getbabi04",
-        "max_devices": 2,
-        "devices": [
-            "03D502E0-045E-0508-B906-D40700080009"
-        ]
+        "max_devices": 1,
+        "devices": []
     }
 }
