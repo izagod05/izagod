@@ -157,6 +157,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-04-10 15:16:33",
             "last_active": "2026-04-10 15:17:55"
+        },
+        "AE3B9DA0-61A9-A2EE-7E44-50EBF6B6D2BA": {
+            "pc_name": "VIP26",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-04-14 11:52:22",
+            "last_active": "2026-04-14 11:52:22"
         }
     },
     "cheat_detectors": {
