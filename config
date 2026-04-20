@@ -175,6 +175,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-04-18 00:31:38",
             "last_active": "2026-04-18 00:31:38"
+        },
+        "9594CEBC-6506-1A16-A0A2-345A605A27E6": {
+            "pc_name": "MAY-65",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-04-20 13:43:10",
+            "last_active": "2026-04-20 13:43:10"
         }
     },
     "cheat_detectors": {
