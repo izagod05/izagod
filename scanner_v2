@@ -3,10 +3,9 @@
     "is_locked": false,
     "cheat_detectors": {
         "E8DF64A7-B330-3C17-ACB0-345A6044FB13": {
-            "pc_name": "JWOS10-FPSV5",
-            "status": "killed",
-            "last_seen": "2026-03-22 19:46:53",
-            "killed_at": "19:46:56"
+            "pc_name": "KernelOS-PC",
+            "status": "active",
+            "last_seen": "2026-05-03 21:57:45"
         },
         "D806D980-CBC8-11EF-AA8B-954CEF065500": {
             "pc_name": "DESKTOP-KMESHRE",
