@@ -3,10 +3,10 @@
     "is_locked": false,
     "users": {
         "E8DF64A7-B330-3C17-ACB0-345A6044FB13": {
-            "pc_name": "JWOS10-FPSV5",
+            "pc_name": "KernelOS-PC",
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-03-08 13:21:26",
-            "last_active": "2026-04-12 05:19:44"
+            "last_active": "2026-05-03 21:53:21"
         },
         "Unknown_HWID": {
             "pc_name": "DESKTOP-S5SE8U9",
