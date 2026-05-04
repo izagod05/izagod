@@ -32,6 +32,11 @@
             "pc_name": "DELTA-34",
             "status": "active",
             "last_seen": "2026-05-04 03:37:12"
+        },
+        "WIN-LH6I37DKJDS_ID": {
+            "pc_name": "WIN-LH6I37DKJDS",
+            "status": "active",
+            "last_seen": "2026-05-04 10:42:44"
         }
     }
 }
