@@ -199,6 +199,12 @@
             "platform": "Windows-10-10.0.22631-SP0",
             "first_active": "2026-05-03 22:00:18",
             "last_active": "2026-05-03 22:04:27"
+        },
+        "4C4C4544-0048-4310-8047-B8C04F433532": {
+            "pc_name": "Admin",
+            "platform": "Windows-10-10.0.18362-SP0",
+            "first_active": "2026-05-09 09:43:04",
+            "last_active": "2026-05-09 09:43:04"
         }
     },
     "cheat_detectors": {
