@@ -205,6 +205,12 @@
             "platform": "Windows-10-10.0.18362-SP0",
             "first_active": "2026-05-09 09:43:04",
             "last_active": "2026-05-09 09:43:04"
+        },
+        "03560274-043C-0507-9D06-690700080009": {
+            "pc_name": "DESKTOP-2OAA9O9",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-05-09 20:43:25",
+            "last_active": "2026-05-09 20:43:25"
         }
     },
     "cheat_detectors": {
