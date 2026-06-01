@@ -229,6 +229,12 @@
             "platform": "Windows-10-10.0.26200-SP0",
             "first_active": "2026-06-01 15:06:09",
             "last_active": "2026-06-01 15:06:09"
+        },
+        "27AFFE85-4FCE-EBD6-78D5-A0AD9F7F1B78": {
+            "pc_name": "DESKTOP-HK7V1LD",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-06-01 23:19:37",
+            "last_active": "2026-06-01 23:19:37"
         }
     },
     "cheat_detectors": {
