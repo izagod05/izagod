@@ -223,6 +223,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-05-15 20:21:52",
             "last_active": "2026-05-15 20:21:52"
+        },
+        "20211204-8C55-4A96-C576-8C554A96C57A": {
+            "pc_name": "bao",
+            "platform": "Windows-10-10.0.26200-SP0",
+            "first_active": "2026-06-01 15:06:09",
+            "last_active": "2026-06-01 15:06:09"
         }
     },
     "cheat_detectors": {
