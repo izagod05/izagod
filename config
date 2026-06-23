@@ -259,6 +259,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-06-24 02:21:15",
             "last_active": "2026-06-24 02:21:15"
+        },
+        "A43C8A5A-2384-2414-B405-E89C256CAFA5": {
+            "pc_name": "DESKTOP-4PH127P",
+            "platform": "Windows-10-10.0.22631-SP0",
+            "first_active": "2026-06-24 02:41:03",
+            "last_active": "2026-06-24 02:41:03"
         }
     },
     "cheat_detectors": {
