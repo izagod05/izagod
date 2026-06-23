@@ -253,6 +253,12 @@
             "platform": "Windows-10-10.0.26200-SP0",
             "first_active": "2026-06-08 11:59:53",
             "last_active": "2026-06-08 11:59:53"
+        },
+        "4C4C4544-0032-5710-804B-B8C04F474A33": {
+            "pc_name": "DESKTOP-TRNNMKC",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-06-24 02:21:15",
+            "last_active": "2026-06-24 02:21:15"
         }
     },
     "cheat_detectors": {
