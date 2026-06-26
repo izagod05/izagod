@@ -265,6 +265,12 @@
             "platform": "Windows-10-10.0.22631-SP0",
             "first_active": "2026-06-24 02:41:03",
             "last_active": "2026-06-24 02:41:03"
+        },
+        "03FF0210-04E0-05BF-D006-120700080009": {
+            "pc_name": "AuraOS-PC",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-06-26 19:44:20",
+            "last_active": "2026-06-26 19:44:20"
         }
     },
     "cheat_detectors": {
