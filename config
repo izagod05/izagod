@@ -277,6 +277,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-06-27 19:13:54",
             "last_active": "2026-06-27 19:17:50"
+        },
+        "04FF0710-28E0-1C73-1E8E-866ABC8E486A": {
+            "pc_name": "IFUN-02",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-07-04 14:56:16",
+            "last_active": "2026-07-04 14:56:16"
         }
     },
     "cheat_detectors": {
