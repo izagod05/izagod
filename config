@@ -295,6 +295,12 @@
             "platform": "Windows-10-10.0.19044-SP0",
             "first_active": "2026-07-11 14:04:26",
             "last_active": "2026-07-12 18:32:34"
+        },
+        "B70A102B-757E-010B-3F53-BCFCE7097E28": {
+            "pc_name": "DESKTOP-5LHF084",
+            "platform": "Windows-10-10.0.19045-SP0",
+            "first_active": "2026-07-15 19:22:31",
+            "last_active": "2026-07-15 19:22:31"
         }
     },
     "cheat_detectors": {
