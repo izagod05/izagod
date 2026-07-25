@@ -325,6 +325,12 @@
             "platform": "Windows-10-10.0.19045-SP0",
             "first_active": "2026-07-24 10:17:31",
             "last_active": "2026-07-24 10:17:31"
+        },
+        "DCFC1892-CFC0-BF1E-AA96-FC9D056EB638": {
+            "pc_name": "DESKTOP-O0777OP",
+            "platform": "Windows-10-10.0.22631-SP0",
+            "first_active": "2026-07-25 16:39:19",
+            "last_active": "2026-07-25 16:39:19"
         }
     },
     "cheat_detectors": {
